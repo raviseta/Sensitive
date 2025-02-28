@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "Sensitive"
-  s.version      = "7.0"
+  s.version      = "16.0"
   s.summary      = "Fresh look at work with gestures in Swift."
 
   # This description is used to generate tags and improve search results.
@@ -65,13 +65,13 @@ This library changes the way how you work with gestures in Swift.
   #
 
   # s.platform     = :ios
-  s.platform     = :ios, "8.0"
+  s.platform     = :ios, "15.6"
 
   #  When using multiple platforms
-  # s.ios.deployment_target = "5.0"
-  # s.osx.deployment_target = "10.7"
+  # s.ios.deployment_target = "15.6"
+  # s.osx.deployment_target = "15.6"
   # s.watchos.deployment_target = "2.0"
-  # s.tvos.deployment_target = "9.0"
+  # s.tvos.deployment_target = "15.6"
 
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -96,7 +96,7 @@ This library changes the way how you work with gestures in Swift.
 
   # s.public_header_files = "Classes/**/*.h"
 
-  s.swift_version = "4.0"
+  s.swift_version = "5.0"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
